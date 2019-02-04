@@ -1,0 +1,90 @@
+ID,Centre,Assignment,Nosessions,Gender,DOB,Abdomen,painsites,otherillness,illnessdetails,painmgt,Education,Marital,T1_presentpain,T1_worstpain,T1_averagepain,T1Painintensity,bestdescribes,T1McGillTot,appetitie,T1totRolandMorris,T1Employment_final,T2McGillTot,T2totRM,Medicalcard,Treatment,Age,T1AverageScore,T2AverageScore,AvgReduction
+1,Cork,1,10,Female,01/07/1986,no,5,yes,asthma,no,Degree,Single,9,9,8,8.666666667,Horrible,30,no,14,Unable to work due to pain,27,15,1,PGAP Group,32,22,21,1
+2,Galway,0,15,Female,20/12/1972,yes,5,yes,crohns disease,no,Primary,Single,8,10,8,8.6,Horrible,29,yes,18,Unable to work due to pain,26,17,1,MTAU Control Group,45,23.5,21.5,2
+3,Dublin,1,4,Female,11/07/1980,no,1,no,1,no,Leaving Cert,Living with partner,8,10,10,9.333333333,Excruciating,35,yes,21,At home not looking for paid work,28,12,1,PGAP Group,38,28,20,8
+4,Donegal,1,6,Female,25/09/1964,no,1,no, ,no,Leaving Cert,Married,4,8,6,6,Distressing,12,no,7,Unable to work due to pain,11,5,1,PGAP Group,54,9.5,8,1.5
+6,Mayo,1,4,Female,11/01/1961,no,1,no,1,no,Leaving Cert,Married,7,10,8,8.333333333,Horrible,13,no,17,Unable to work due to pain,12,15,1,PGAP Group,57,15,13.5,1.5
+8,Galway,1,10,Male,22/08/1972,no,5,no,1,no,Postgrad,Living with partner,8,9,7,8,Discomforting,22,no,17,Unable to work due to pain,10,6,2,PGAP Group,46,19.5,8,11.5
+11,Galway,0,15,Female,14/06/1960,no,2,no,1,no,Degree,Married,7,10,8,8.333333333,Horrible,10,no,19,Unable to work due to pain,13,15,2,MTAU Control Group,58,14.5,14,0.5
+14,Galway,1,2,Female,05/03/1983,no,4,no,1,no,Leaving Cert,Single,4,10,7,7,Distressing,21,no,11,Unable to work due to pain,17,10,1,PGAP Group,35,16,13.5,2.5
+22,Galway,0,15,Female,23/05/1966,no,8,no,1,no,Degree,Married,6,8,6,6.666666667,Distressing,14,no,4,At home not looking for paid work,12,0,2,MTAU Control Group,52,9,6,3
+26,Cork,1,2,Male,18/08/1965,no,2,no,1,no,Junior Cert,Married,4,8,5,5.666666667,Discomforting,4,no,10,Unable to work due to pain,14,12,1,PGAP Group,53,7,13,-6
+30,Cork,0,15,Female,13/09/1954,no,10,yes,thyroid and heart(aspirin),no,Other,Married,7,7,6,6.666666667,Distressing,20,no,11,At home not looking for paid work,19,12,2,MTAU Control Group,64,15.5,15.5,0
+33,Mayo,1,10,Male,07/05/1955,no,1,yes,schizophrenia (depression),no,Junior Cert,Married,10,10,10,10,Excruciating,17,no,13,Unable to work not due to pain,17,11,1,PGAP Group,63,15,14,1
+41,Galway,1,3,Male,21/09/1967,no,3,no,1,no,Leaving Cert,Married,7,10,8,8.333333333,Discomforting,24,no,9,Unable to work due to pain,25,9,1,PGAP Group,51,16.5,17,-0.5
+44,Cork,0,15,Male,17/04/1960,no,2,yes,diabetes type two,no,Junior Cert,Married,8,9,7,8,Horrible,9,no,15,Unable to work due to pain,9,18,2,MTAU Control Group,58,12,13.5,-1.5
+45,Donegal,0,15,Female,30/10/1970,no,13,no,sore bunions,no,Leaving Cert,Single,8,10,7,8.3,Distressing,14,no,4,Redundant,15,8,1,MTAU Control Group,48,9,11.5,-2.5
+48,Galway,0,15,Female,01/12/1979,no,6,yes,asthma,no,Degree,Married,3,8,5,5.333333333,Discomforting,14,no,11,Unable to work due to pain,10,5,2,MTAU Control Group,39,12.5,7.5,5
+50,Galway,1,2,Male,08/09/1976,yes,9,no,1,no,Trade Qualification,Married,8,10,8,8.666666667,Horrible,27,no,21,Unable to work due to pain,28,18,2,PGAP Group,42,24,23,1
+52,Limerick,1,3,Female,24/03/1977,no,1,no,1,no,Degree,Married,4,9,7,6.666666667,Distressing,29,no,20,Working PT due to pain,9,6,2,PGAP Group,41,24.5,7.5,17
+53,Donegal,1,3,Female,14/10/1968,no,8,no,1,no,Other,Single,5,10,7,7.333333333,Discomforting,17,no,16,Unable to work due to pain,16,8,1,PGAP Group,50,16.5,12,4.5
+54,Mayo,0,15,Male,19/03/1950,no,4,no,1,no,Other,Married,8,8,6.943181818,7.355681818,Distressing,11,no,4,Unable to work due to pain,10,4,2,MTAU Control Group,68,7.5,7,0.5
+61,Cork,0,15,Female,26/12/1971,no,6,no,1,no,Leaving Cert,Single,7,9,7,7.666666667,Distressing,25,yes,19,Unable to work due to pain,23,19,1,MTAU Control Group,46,22,21,1
+62,Cork,1,10,Female,27/03/1963,no,1,yes,haemmoroids/high blood pressure/banding procedure,no,Degree,Married,7,10,8,8.333333333,Distressing,27,no,18,Unable to work due to pain,31,19,2,PGAP Group,55,22.5,25,-2.5
+63,Cork,0,15,Female,21/06/1972,no,1,no,1,yes,Leaving Cert,Living with partner,3,10,7,6.666666667,Discomforting,10,no,12,Working PT due to pain,8,12,2,MTAU Control Group,46,11,10,1
+66,Mayo,1,6,Female,15/07/1964,no,0,no,1,no,Degree,Married,7,10,7,8,Distressing,10,no,12,Unable to work due to pain,7,12,1,PGAP Group,54,11,9.5,1.5
+67,Galway,0,15,Female,09/01/1982,no,5,no,1,no,Degree,Single,5,10,8,7.666666667,Discomforting,18,no,9,Working PT due to pain,10,6,2,MTAU Control Group,36,13.5,8,5.5
+69,Sligo,0,15,Female,23/08/1981,no,2,no,1,no,Degree,Single,10,10,8,9.333333333,Excruciating,24,no,12,Unable to work due to pain,21,14,2,MTAU Control Group,37,18,17.5,0.5
+70,Mayo,0,15,Female,31/08/1956,no,5,no,1,no,Degree,Married,6,8,5,6.333333333,Distressing,16,no,11,Unable to work due to pain,17,12,2,MTAU Control Group,62,13.5,14.5,-1
+71,Cork,1,2,Female,11/08/1993,no,2,no,1,no,Leaving Cert,Single,9,10,9,9.333333333,Excruciating,31,yes,12,Unable to work due to pain,32,15,1,PGAP Group,25,21.5,23.5,-2
+72,Mayo,0,15,Male,01/12/1954,no,3,no, ,no,Leaving Cert,Married,6,9,7,7.3,Horrible,29,no,18,Unable to work due to pain,28,18,1,MTAU Control Group,64,23.5,23,0.5
+74,Galway,0,15,Male,28/11/1959,no,6,no,1,no,Degree,Married,9,10,7,8.666666667,Horrible,11,no,8,Working PT due to pain,9,4,1,MTAU Control Group,59,9.5,6.5,3
+77,Sligo,0,15,Male,01/10/1972,no,2,yes,asthma,no,Degree,Married,3,7,5,5,Discomforting,9,no,8,Unable to work due to pain,18,14,2,MTAU Control Group,46,8.5,16,-7.5
+89,Galway,0,15,Female,18/11/1961,yes,3,no,1,yes,Other,Married,9,9,9,9,Horrible,36,no,17,Unable to work due to pain,34,17,1,MTAU Control Group,57,26.5,25.5,1
+92,Galway,1,2,Male,29/03/1981,no,1,no,1,no,Leaving Cert,Single,4,10,3,5.666666667,Discomforting,17,no,5,Student,14,1,1,PGAP Group,37,11,7.5,3.5
+94,Limerick,0,15,Male,10/10/1948,no,2,yes,heart attack/bypass,no,Junior Cert,Married,7,8,7,7.333333333,Discomforting,14,no,13,Unable to work due to pain,13,13,1,MTAU Control Group,70,13.5,13,0.5
+95,Donegal,0,15,Male,08/12/1970,no,9,no,1,no,Primary,Living with partner,7,10,7,8,Distressing,12,no,10,Unable to work due to pain,15,3,1,MTAU Control Group,47,11,9,2
+105,Dublin,0,15,Male,17/03/1978,no,4,no, ,no,Trade Qualification,Single,4,7,4,5,Discomforting,10,no,10,Unable to work due to pain,10,9,1,MTAU Control Group,40,10,9.5,0.5
+107,Donegal,0,15,Female,28/10/1978,no,3,no,1,no,Other,Married,7,9,9,8.333333333,Horrible,24,no,13,Unable to work due to pain,22,14,1,MTAU Control Group,40,18.5,18,0.5
+114,Mayo,0,15,Female,18/05/1977,no,3,no,1,no,Postgrad,Married,4,7,6,5.6,Discomforting,9,no,10,Unable to work due to pain,11,12,2,MTAU Control Group,41,9.5,11.5,-2
+115,Mayo,0,15,Female,26/02/1960,no,3,no,1,no,Junior Cert,Married,7,10,9,8.7,Horrible,29,no,10,Unable to work due to pain,25,13,1,MTAU Control Group,58,19.5,19,0.5
+116,Galway,1,10,Male,26/11/1963,no,2,yes,high cholesterol,no,Degree,Married,2,9,4,5,Discomforting,12,yes,7,Unable to work due to pain,7,1,1,PGAP Group,55,9.5,4,5.5
+117,Mayo,0,15,Female,10/02/1963,no,3,yes,underactive thyroid/orofacial pain,no,Degree,Single,10,10,10,10,Excruciating,29,no,16,Unable to work due to pain,30,18,1,MTAU Control Group,55,22.5,24,-1.5
+132,Cork,1,7,Female,16/08/1978,no,4,no,1,no,Degree,Single,8,9,9,8.666666667,Horrible,34,yes,12,Unable to work due to pain,32,12,1,PGAP Group,40,23,22,1
+133,Cork,0,15,Female,17/06/1971,no,7,no,1,no,Other,Single,6,10,8,8,Horrible,17,no,2,Unable to work due to pain,15,5,1,MTAU Control Group,47,9.5,10,-0.5
+134,Donegal,0,15,Female,01/07/1970,no,3,no,1,yes,Degree,Living with partner,6,8,8,7.333333333,Horrible,38,yes,18,Unable to work due to pain,27,15,1,MTAU Control Group,48,28,21,7
+136,Dublin,0,15,Male,18/04/1949,no,1,yes,emphysema,no,Degree,Married,5,10,7,7.333333333,Horrible,25,yes,18,Retired due to pain,10,9,0,MTAU Control Group,69,21.5,9.5,12
+137,Dublin,0,15,Female,14/12/1992,no,1,no,1,no,Leaving Cert,Single,4,8,5,5.666666667,Distressing,18,no,15,Unable to work due to pain,20,13,1,MTAU Control Group,25,16.5,16.5,0
+138,Donegal,1,5,Male,13/03/1968,no,3,yes,asthma & depression,no,Leaving Cert,Married,4,7,5,5.333333333,Discomforting,21,no,14,Working PT due to pain,14,8,1,PGAP Group,50,17.5,11,6.5
+148,Donegal,1,6,Female,25/10/1961,yes,15,yes,sleep apnea,no,Junior Cert,Married,8,9,9,8.6,Excruciating,36,no,14,Retired due to pain,34,13,1,PGAP Group,57,25,23.5,1.5
+157,Cork,0,15,Female,04/02/1976,no,5,no, ,no,Degree,Married,7,10,7,8,Distressing,35,no,18,Working PT due to pain,33,19,2,MTAU Control Group,42,26.5,26,0.5
+158,Galway,0,15,Female,08/12/1957,no,2,yes,asthma/allergies/dental pain,no,Degree,Married,7,8,6,7,Discomforting,20,no,15,Unable to work due to pain,30,18,2,MTAU Control Group,60,17.5,24,-6.5
+159,Cork,0,15,Female,04/02/1981,no,6,no,1,no,Postgrad,Single,7,8,7,7.3,Distressing,21,no,15,FT job on sick leave due to pain,20,15,2,MTAU Control Group,37,18,17.5,0.5
+163,Galway,0,15,Male,05/05/1970,no,2,no,1,no,Degree,Married,9,10,10,9.666666667,Distressing,23,no,17,Working PT due to pain,24,17,0,MTAU Control Group,48,20,20.5,-0.5
+164,Sligo,0,15,Female,24/04/1967,no,7,yes,"asthma, fibtyomyalgia",no,Degree,Married,5,8,8,7,NA,13,no,9,At home not looking for paid work,22,10,1,MTAU Control Group,51,11,16,-5
+165,Galway,0,15,Female,19/05/1975,no,8,no,1,no,Degree,Married,5,9,7,7,Horrible,24,yes,9,Unable to work due to pain,25,11,2,MTAU Control Group,43,16.5,18,-1.5
+166,Galway,0,15,Female,16/03/1976,no,7,no,1,no,Degree,Married,7,9,8,8,Horrible,29,no,19,Unable to work due to pain,42,21,1,MTAU Control Group,42,24,31.5,-7.5
+172,Sligo,0,15,Female,31/07/1977,no,4,no,1,no,Postgrad,Single,3,7,1,3.666666667,Discomforting,18,no,6,Working FT,2,5,2,MTAU Control Group,41,12,3.5,8.5
+174,Cork,1,10,Female,13/04/1970,no,2,no,1,no,Leaving Cert,Married,3,8,4,5,Discomforting,25,no,14,Unable to work due to pain,24,12,2,PGAP Group,48,19.5,18,1.5
+176,Galway,1,4,Female,10/02/1972,no,3,yes,repeditive strain injury,no,Degree,Single,3,8,6,5.666666667,Distressing,32,no,9,Working PT due to pain,22,8,0,PGAP Group,46,20.5,15,5.5
+177,Galway,0,15,Male,01/11/1974,no,1,yes,asthma,no,Postgrad,Married,6,8,6,6.6,Discomforting,17,no,15,Working PT due to pain,20,18,1,MTAU Control Group,44,16,19,-3
+178,Cork,1,10,Female,24/02/1977,no,9,no,1,no,Degree,Married,6,9,7,7.333333333,Distressing,34,yes,21,Unable to work due to pain,36,18,2,PGAP Group,41,27.5,27,0.5
+181,Donegal,1,6,Female,29/04/1956,no,10,yes,high blood pressure,no,Junior Cert,Married,5,10,7,7.333333333,Horrible,16,no,13,Retired due to pain,8,4,1,PGAP Group,62,14.5,6,8.5
+186,Donegal,0,15,Female,06/04/1970,no,1,no,1,no,Leaving Cert,Married,5,10,7,7.3,Discomforting,10,no,8,Retired due to pain,9,8,1,MTAU Control Group,48,9,8.5,0.5
+192,Cork,0,14,Female,20/07/1961,no,9,yes,depression,yes,Leaving Cert,Separated,10,10,10,10,Excruciating,20,no,18,Unemployed not due to pain,21,14,2,MTAU Control Group,57,19,17.5,1.5
+195,Donegal,0,15,Female,29/07/1964,no,3,yes,depression,no,Degree,Married,6,8,8,7.333333333,Distressing,33,no,8,Unable to work due to pain,31,9,1,MTAU Control Group,54,20.5,20,0.5
+196,Cork,0,15,Female,28/08/1958,no,3,yes,depression,no,Trade Qualification,Single,7,9,7,7.666666667,Horrible,32,no,17,Unable to work due to pain,13,15,2,MTAU Control Group,60,24.5,14,10.5
+197,Limerick,0,15,Female,29/06/1964,no,1,no,1,no,Trade Qualification,Separated,6,8,6,6.666666667,Horrible,17,no,10,Working PT due to pain,17,9,2,MTAU Control Group,54,13.5,13,0.5
+198,Cork,1,10,Female,13/11/1984,no,3,yes,underactive thyroid,no,Degree,Single,5,9,7,7,Discomforting,33,no,14,Unable to work due to pain,16,14,1,PGAP Group,34,23.5,15,8.5
+204,Cork,0,15,Male,15/05/1959,no,3,yes,depression,yes,Leaving Cert,Married,9,10,5,8,Discomforting,13,yes,13,Unable to work due to pain,28,13,1,MTAU Control Group,59,13,20.5,-7.5
+207,Galway,0,15,Male,20/02/1951,yes,4,yes,parkinsons,no,Primary,Married,7,9,7,7.666666667,Horrible,22,no,16,Retired due to pain,24,17,2,MTAU Control Group,67,19,20.5,-1.5
+212,Galway,1,3,Female,22/12/1949,no,8,no,1,no,Primary,Married,6,10,8,8,Distressing,13,no,9,Unable to work due to pain,13,9,1,PGAP Group,68,11,11,0
+213,Cork,1,5,Female,04/08/1957,no,5,no,1,no,Degree,Married,4,10,5,6.333333333,Distressing,27,no,10,Unable to work due to pain,28,9,2,PGAP Group,61,18.5,18.5,0
+218,Galway,1,9,Female,11/11/1959,no,3,no,1,no,Degree,Married,4,10,6,6.666666667,Discomforting,11,no,12,Retired due to pain,12,13,0,PGAP Group,59,11.5,12.5,-1
+222,Galway,1,10,Female,18/10/1959,no,7,no,1,no,Degree,Married,5,7,5,5.666666667,Distressing,25,no,16,Unable to work due to pain,24,5,0,PGAP Group,59,20.5,14.5,6
+226,Galway,0,15,Male,06/04/1952,no,3,yes,Haemochromatosis,no,Junior Cert,Married,8,10,7,8.333333333,Horrible,19,no,15,Working PT due to pain,21,17,2,MTAU Control Group,66,17,19,-2
+230,Galway,0,15,Female,10/03/1969,no,6,yes,migraines/bad headaches,no,Postgrad,Single,8,10,7,8.333333333,Horrible,30,yes,15,Working PT due to pain,28,13,2,MTAU Control Group,49,22.5,20.5,2
+232,Galway,0,15,Female,10/12/1975,no,3,no,1,no,Degree,Living with partner,3,7,5,5,Discomforting,17,no,13,Working PT due to pain,17,12,2,MTAU Control Group,42,15,14.5,0.5
+235,Donegal,0,15,Female,01/09/1971,no,2,no,1,no,Leaving Cert,Married,6,10,7,7.666666667,Horrible,28,no,17,Working PT due to pain,25,14,2,MTAU Control Group,47,22.5,19.5,3
+236,Donegal,0,15,Male,10/07/1974,no,5,no,1,no,Junior Cert,Married,4,7,7,6,Discomforting,22,no,10,Unable to work due to pain,23,9,2,MTAU Control Group,44,16,16,0
+237,Donegal,1,4,Male,22/08/1950,no,5,yes,high blood pressure,no,Primary,Separated,9,9,6,8,Horrible,39,no,15,Retired due to pain,37,13,1,PGAP Group,68,27,25,2
+243,Donegal,0,15,Female,26/08/1954,no,4,yes,underactive thyroid,no,Leaving Cert,Married,5,10,7,7.333333333,Distressing,15,no,10,Retired due to pain,25,12,1,MTAU Control Group,64,12.5,18.5,-6
+246,Donegal,1,4,Female,12/04/1983,no,3,no,1,no,Leaving Cert,Single,2,10,6,6,Discomforting,13,no,5,Unable to work due to pain,14,2,1,PGAP Group,35,9,8,1
+251,Donegal,1,6,Female,11/09/1958,yes,7,yes,rectum not working properly,no,Junior Cert,Living with partner,5,10,10,8.333333333,NA,21,yes,16,Retired due to pain,18,15,1,PGAP Group,60,18.5,16.5,2
+265,Galway,0,15,Female,19/02/1968,yes,15,yes,irritable bowel syndrome,yes,Postgrad,Single,5,8,8,7,Distressing,41,no,11,Unable to work due to pain,38,12,1,MTAU Control Group,50,26,25,1
+273,Galway,1,6,Male,17/02/1957,no,4,yes,depression,yes,Primary,Married,7,8,6,7,Distressing,31,no,13,Working PT due to pain,29,10,2,PGAP Group,61,22,19.5,2.5
+274,Galway,1,10,Female,03/12/1982,no,4,no,1,yes,Postgrad,Single,3,9,7,6.333333333,Distressing,20,no,16,Unable to work due to pain,12,9,1,PGAP Group,36,18,10.5,7.5
+280,Cork,0,14,Male,07/05/1978,no,2,yes,asthma,no,Degree,Living with partner,7,10,6,7.666666667,Distressing,18,no,17,Unable to work due to pain,21,18,1,MTAU Control Group,40,17.5,19.5,-2
+282,Sligo,1,10,Female,01/05/1976,no,4,yes,vitreaus degeneration,no,Postgrad,Single,5,8,7,6.666666667,Discomforting,7,no,9,Unable to work due to pain,14,6,1,PGAP Group,42,8,10,-2
+286,Donegal,1,5,Female,20/12/1962,no,0,yes,depression,no,Junior Cert,Divorced,8,8,8,8,Discomforting,7,no,9,Unable to work due to pain,9,8,1,PGAP Group,55,8,8.5,-0.5
+291,Limerick,0,15,Female,10/05/1979,no,14,no,?,no,Leaving Cert,Single,7,10,7,8,Distressing,18,yes,17,Unable to work due to pain,19,17,1,MTAU Control Group,39,17.5,18,-0.5
